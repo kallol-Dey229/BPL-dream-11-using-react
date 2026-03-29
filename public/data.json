@@ -1,0 +1,62 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000,
+    "playerImg": "https://i.ibb.co.com/ds1MvCgG/images-1.webp"
+  },
+  {
+    "playerName": "AB de Villiers",
+    "playerCountry": "South Africa",
+    "playerType": "Batsman",
+    "rating": 9.3,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000,
+    "playerImg": "https://i.ibb.co.com/Sw4pVKcm/images.webp"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 9.4,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1600000,
+    "playerImg": "https://i.ibb.co.com/cSLJ7s8g/1154.png"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 9.2,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "price": 1300000,
+    "playerImg": "https://i.ibb.co.com/v4sVNchd/11-500x500.png"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 9.1,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000,
+    "playerImg": "https://i.ibb.co.com/JFgn66fr/Kane-Williamson-Thumb-injury.jpg"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "playerCountry": "Australia",
+    "playerType": "Bowler",
+    "rating": 9.0,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1450000,
+    "playerImg": "https://i.ibb.co.com/tTxJLVb3/qs-Xj-L0t-Q5y2zsg-Fe0-Yagoo-Is2-Hn-B0nl-Qt0-BG3ncm.webp"
+  }
+]
