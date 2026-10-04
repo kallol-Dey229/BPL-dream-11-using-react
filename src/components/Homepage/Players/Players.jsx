@@ -6,7 +6,7 @@ const Players = ({ playerPromise, setCoin, coin }) => {
     const players = use(playerPromise);
     const [selectedType, setSelectedType] = useState('available');
     const [selectedPlayers, setSelectedPlayers] = useState([]);
-
+//
     return (
         <div className='container mx-auto my-15'>
             <div className='flex justify-between gap-4 items-center mb-5'>
