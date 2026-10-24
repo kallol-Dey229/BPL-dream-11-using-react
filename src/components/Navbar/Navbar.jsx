@@ -16,5 +16,5 @@ const Navbar = ({coin}) => {
         </div>
     );
 };
-//
+
 export default Navbar;
